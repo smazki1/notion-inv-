@@ -16,6 +16,9 @@
   "license": "ISC",
   "dependencies": {
     "@notionhq/client": "^5.9.0",
-    "dotenv": "^17.2.4"
+    "dotenv": "^17.2.4",
+    "global-agent": "^4.1.2",
+    "https-proxy-agent": "^7.0.6",
+    "node-fetch": "^2.7.0"
   }
 }
